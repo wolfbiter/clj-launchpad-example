@@ -1,13 +1,3 @@
 # clj-launchpad-example
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2013 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+run with lein repl, check out the code in src/clj-launchpad-example/core.clj
